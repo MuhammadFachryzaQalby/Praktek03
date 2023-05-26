@@ -9,5 +9,11 @@ public class SepedaAksi {
 
         s.cetakInfo();
 
+        System.out.println("mereknya \t: ");
+        System.out.println(s.getMerk());
+        System.out.println("warnanya \t: ");
+        System.out.println(s.getWarna());
+        System.out.println("Harganya \t: ");
+        System.out.println(s.getHarga());
     }
 }
